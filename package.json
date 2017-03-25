@@ -2,6 +2,7 @@
     "buildNpmdoc":"html-webpack-plugin",
     "devDependencies": {
         "html-webpack-plugin": "*",
+        "webpack": "^2",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha"
     },
