@@ -1,11 +1,13 @@
-# api documentation for  [html-webpack-plugin (v2.28.0)](https://github.com/ampedandwired/html-webpack-plugin)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-html-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-html-webpack-plugin)
+# api documentation for  [html-webpack-plugin (v2.28.0)](https://github.com/ampedandwired/html-webpack-plugin)  [![npm package](https://img.shields.io/npm/v/npmdoc-html-webpack-plugin.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-html-webpack-plugin) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-html-webpack-plugin.svg)](https://travis-ci.org/npmdoc/node-npmdoc-html-webpack-plugin)
 #### Simplifies creation of HTML files to serve your webpack bundles
 
 [![NPM](https://nodei.co/npm/html-webpack-plugin.png?downloads=true)](https://www.npmjs.com/package/html-webpack-plugin)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-html-webpack-plugin/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-html_webpack_plugin_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html-webpack-plugin/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-html-webpack-plugin/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-html-webpack-plugin%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html-webpack-plugin/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-html-webpack-plugin/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-html-webpack-plugin/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-html-webpack-plugin/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
