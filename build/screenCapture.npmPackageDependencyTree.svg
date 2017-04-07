@@ -1,0 +1,73 @@
+<svg height="1118" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1118" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├─┬ html-webpack-plugin@2.28.0 </tspan>
+<tspan x="10" y="90">│ ├── bluebird@3.5.0 </tspan>
+<tspan x="10" y="106">│ ├─┬ html-minifier@3.4.2 </tspan>
+<tspan x="10" y="122">│ │ ├─┬ camel-case@3.0.0 </tspan>
+<tspan x="10" y="138">│ │ │ ├─┬ no-case@2.3.1 </tspan>
+<tspan x="10" y="154">│ │ │ │ └── lower-case@1.1.4 </tspan>
+<tspan x="10" y="170">│ │ │ └── upper-case@1.1.3 </tspan>
+<tspan x="10" y="186">│ │ ├─┬ clean-css@4.0.11 </tspan>
+<tspan x="10" y="202">│ │ │ └── source-map@0.5.6 </tspan>
+<tspan x="10" y="218">│ │ ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="234">│ │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="250">│ │ ├── he@1.1.1 </tspan>
+<tspan x="10" y="266">│ │ ├─┬ ncname@1.0.0 </tspan>
+<tspan x="10" y="282">│ │ │ └── xml-char-classes@1.0.0 </tspan>
+<tspan x="10" y="298">│ │ ├── param-case@2.1.1 </tspan>
+<tspan x="10" y="314">│ │ ├── relateurl@0.2.7 </tspan>
+<tspan x="10" y="330">│ │ └─┬ uglify-js@2.8.21 </tspan>
+<tspan x="10" y="346">│ │   ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="362">│ │   └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="378">│ │     ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="394">│ │     ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="410">│ │     │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="426">│ │     │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="442">│ │     │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="458">│ │     │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="474">│ │     │ │ │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="490">│ │     │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="506">│ │     │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="522">│ │     │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="538">│ │     │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="554">│ │     ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="570">│ │     └── window-size@0.1.0 </tspan>
+<tspan x="10" y="586">│ ├─┬ loader-utils@0.2.17 </tspan>
+<tspan x="10" y="602">│ │ ├── big.js@3.1.3 </tspan>
+<tspan x="10" y="618">│ │ ├── emojis-list@2.1.0 </tspan>
+<tspan x="10" y="634">│ │ ├── json5@0.5.1 </tspan>
+<tspan x="10" y="650">│ │ └── object-assign@4.1.1 </tspan>
+<tspan x="10" y="666">│ ├── lodash@4.17.4 </tspan>
+<tspan x="10" y="682">│ ├─┬ pretty-error@2.1.0 </tspan>
+<tspan x="10" y="698">│ │ ├─┬ renderkid@2.0.1 </tspan>
+<tspan x="10" y="714">│ │ │ ├─┬ css-select@1.2.0 </tspan>
+<tspan x="10" y="730">│ │ │ │ ├── boolbase@1.0.0 </tspan>
+<tspan x="10" y="746">│ │ │ │ ├── css-what@2.1.0 </tspan>
+<tspan x="10" y="762">│ │ │ │ ├─┬ domutils@1.5.1 </tspan>
+<tspan x="10" y="778">│ │ │ │ │ └─┬ dom-serializer@0.1.0 </tspan>
+<tspan x="10" y="794">│ │ │ │ │   ├── domelementtype@1.1.3 </tspan>
+<tspan x="10" y="810">│ │ │ │ │   └── entities@1.1.1 </tspan>
+<tspan x="10" y="826">│ │ │ │ └── nth-check@1.0.1 </tspan>
+<tspan x="10" y="842">│ │ │ ├─┬ dom-converter@0.1.4 </tspan>
+<tspan x="10" y="858">│ │ │ │ └── utila@0.3.3 </tspan>
+<tspan x="10" y="874">│ │ │ ├─┬ htmlparser2@3.3.0 </tspan>
+<tspan x="10" y="890">│ │ │ │ ├── domelementtype@1.3.0 </tspan>
+<tspan x="10" y="906">│ │ │ │ ├── domhandler@2.1.0 </tspan>
+<tspan x="10" y="922">│ │ │ │ ├── domutils@1.1.6 </tspan>
+<tspan x="10" y="938">│ │ │ │ └─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="954">│ │ │ │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="970">│ │ │ │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="986">│ │ │ │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="1002">│ │ │ │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="1018">│ │ │ ├─┬ strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="1034">│ │ │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="1050">│ │ │ └── utila@0.3.3 </tspan>
+<tspan x="10" y="1066">│ │ └── utila@0.4.0 </tspan>
+<tspan x="10" y="1082">│ └── toposort@1.0.3 </tspan>
+<tspan x="10" y="1098">└── UNMET PEER DEPENDENCY webpack@1 || ^2 || ^2.1.0-beta || ^2.2.0-rc</tspan>
+</text>
+</svg>
